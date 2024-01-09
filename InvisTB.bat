@@ -18,7 +18,7 @@ echo [2] - Reset taskbar to normal
 echo [3] - Quit
 echo.
 
-set /p choice=Choice [1/2/3]?: 
+set /p choice=Please choose a number and press ENTER [1/2/3]?: 
 if %choice%==1 goto add
 if %choice%==2 goto delete
 if %choice%==3 goto quit
