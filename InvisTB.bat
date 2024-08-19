@@ -12,6 +12,8 @@ echo   888  888  888Y88  88P888"Y8888b.888    888    888
 echo   888  888  888 Y8bd8P 888     X88888    888   d88P 
 echo 8888888888  888  Y88P  888 88888P'888    8888888P" 
 echo.
+echo by aaronlyy (github.com/aaronlyy)
+echo.
 
 echo [1] - Make taskbar transparent
 echo [2] - Reset taskbar to normal
